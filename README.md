@@ -6,6 +6,9 @@ App demo for basic UITableView delegation (programmatically)
 ##Features:
 + programmatic creation of UITableView utilizing UITableViewDelegate and UITableViewSource protocols
 
+![Alt text](/DelegationObjCSS.png?raw=true "")
+
+
 # Author
 Alistair Cooper
 
@@ -13,6 +16,6 @@ Alistair Cooper
 
 [SwiftCodeComposer.com](https://www.swiftcodecomposer.com)
 
-![Alt text](/DelegationObjCSS.png?raw=true "")
+
 
 
