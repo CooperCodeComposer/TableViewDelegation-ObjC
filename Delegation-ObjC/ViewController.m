@@ -24,7 +24,7 @@
     tableView = [ [UITableView alloc] initWithFrame:CGRectZero style:UITableViewStylePlain ];
     
     // this dynamically discovers the size of the view
-    CGRect viewFrame = CGRectInset(self.view.bounds, 40, 120);
+    CGRect viewFrame = CGRectInset(self.view.bounds, 20, 80);
     
     tableView.frame = viewFrame;
     
